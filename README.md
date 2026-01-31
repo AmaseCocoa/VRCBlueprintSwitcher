@@ -1,0 +1,2 @@
+# VRCBlueprintSwitcher
+アバターにBlueprint IDを複数登録・切り替えできるようになるツール
